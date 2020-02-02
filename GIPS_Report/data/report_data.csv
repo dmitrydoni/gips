@@ -1,0 +1,5 @@
+"country";"transactions_count";"total_amount";"average_amount";"last_transaction_date"
+USA;5;62326.00;12465.20;"2020-01-04"
+Germany;7;132850.00;18978.57;"2020-01-07"
+Switzerland;1;25570.00;25570.00;"2020-01-03"
+Netherlands;4;75643.00;18910.75;"2020-01-06"
